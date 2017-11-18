@@ -1,0 +1,23 @@
+{
+  "name": "sandbox-test",
+  "version": "1.0.0",
+  "description": "Testing out vm2 sandbox Environtment Basic functionality working",
+  "main": "sandbox.js",
+  "dependencies": {
+    "vm2": "^3.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonM90/sandboxTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonM90/sandboxTest/issues"
+  },
+  "homepage": "https://github.com/JonM90/sandboxTest#readme"
+}
